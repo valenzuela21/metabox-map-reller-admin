@@ -1,0 +1,2 @@
+[06-Oct-2020 21:27:40 UTC] Error Unknown column 'undefined' in 'where clause' de la base de datos de WordPress para la consulta SELECT * FROM wp_makers WHERE id_post = undefined
+[06-Oct-2020 21:27:41 UTC] Error Unknown column 'undefined' in 'where clause' de la base de datos de WordPress para la consulta SELECT * FROM wp_makers WHERE id_post = undefined
