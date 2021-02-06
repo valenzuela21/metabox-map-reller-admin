@@ -1,19 +1,4 @@
-# Vue.js WordPress Master Standar Plugin
-
-A WordPress [Vue.js](https://vuejs.org/) starter plugin improved standard vue.js 😬
-
-## 📦 What it ships with?
-
- - Pre-configured webpack config
-   - Babel loader, Vue loader, CSS and LESS loader
-   - Separate `vendor.js` with all vendor scripts
-   - Uglify JS for production
-   - Separate `frontend.js` and `admin.js`
-   - Extracted CSS/LESS to separate `frontend.css` and `admin.css` files.
-   - Auto reloading with Browser Sync
- - [Vue](https://vuejs.org/) and [Vue Router](https://router.vuejs.org/en/)
- - Frontend (shortcode) and Backend Starter App and Metabox Type
- - Modern PHP codebase with [namespace](http://php.net/manual/en/language.namespaces.php) support
+# Metabox Admin Map Reller Wordpress
 
 ## webpack.dev.js
 
